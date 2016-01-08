@@ -1,0 +1,41 @@
+
+body
+{
+    margin: auto;
+    width: 80%;
+    border: 3px solid #F5F5F5;
+    padding: 20px;
+    background:#F5F5F5; 
+}
+
+a
+{
+    display:block;
+    border:20px solid #C7D0D5;
+    width:100%;
+    margin : 1px;
+    padding-top:2px;
+    border-radius: 15px 50px;
+}
+
+.parent
+{
+   text-align:center;
+   border-radius: 15px 50px;
+}
+
+.directory
+{
+    text-transform: uppercase;
+    color:#F5F5F5;
+    font-size:100px;
+    background-color:#FF7148;
+}
+
+.file
+{
+    text-transform: capitalize;
+    color:#93B1C6;
+    font-size:75px;
+    background-color:#C7D0D5;
+}
