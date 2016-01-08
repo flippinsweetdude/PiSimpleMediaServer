@@ -6,7 +6,7 @@
  <body>
 <?php
 
-$root = "/var/www/html/thumb/";
+$root = "/var/www/html/";
 $dir = $_GET["dir"];
 if(strlen($dir)>1)
   $dir = $dir . DIRECTORY_SEPARATOR;
